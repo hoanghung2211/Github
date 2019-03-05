@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Button>
+            x:Name="btnShow"
+            Height="35"
+            Wigth="100"
+            content="Show"/>
+
+        </Button>
     </Grid>
 </Window>
